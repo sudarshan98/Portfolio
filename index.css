@@ -1,0 +1,74 @@
+
+.main{
+    /* border: 2px solid; */
+    height: auto;
+}
+
+.container-fluid a,.nav-link{
+    color: white;
+   
+
+}
+#home a{
+    color: white;
+}
+
+.first{
+    height: 50%;
+    width: 100%;
+    /* border: 5px silid; */
+    color: white;
+    background-repeat: no-repeat;
+    background-image: url("./OIP.jpeg");
+    background-size: cover;
+}
+
+ul li a {
+    color: white;
+}
+
+
+.sec{
+    height: 300px;
+    width: 100%;
+    /* border: 2px solid red; */
+   
+}
+
+.sec .photo{
+    /* margin-left: 500px;
+    margin-top: 60px; */
+    display: flex;
+    justify-content:center;
+    
+
+}
+.info{
+    text-align: center;
+}
+.info p{
+    /* margin-left: 200px; */
+    color: blue;
+}
+
+.photo img{
+    height:150px;
+    width: 150px;
+    border: 4px solid;
+    border-radius: 50%;
+    /* background-image: url("./sudarshan\ photo.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.second h2,p{
+    text-align: center;
+    
+}
+
+.info p{
+    font-size: 20px;
+}
+
+
+
